@@ -1,0 +1,62 @@
+[
+  {
+    "Group": "fruits",
+    "Word": "banana",
+    "Meaning": "muz"
+  },
+  {
+    "Group": "fruits",
+    "Word": "peach",
+    "Meaning": "seftali"
+  },
+  {
+    "Group": "fruits",
+    "Word": "grape",
+    "Meaning": "uzum"
+  },
+  {
+    "Group": "fruits",
+    "Word": "blueberry",
+    "Meaning": "yabanmersini"
+  },
+  {
+    "Group": "fruits",
+    "Word": "apple",
+    "Meaning": "elma"
+  },
+  {
+    "Group": "fruits",
+    "Word": "pineapple",
+    "Meaning": "ananas"
+  },
+  {
+    "Group": "clothes",
+    "Word": "skirt",
+    "Meaning": "etek"
+  },
+  {
+    "Group": "clothes",
+    "Word": "dress",
+    "Meaning": "elbise"
+  },
+  {
+    "Group": "clothes",
+    "Word": "shoe",
+    "Meaning": "ayakkabi"
+  },
+  {
+    "Group": "clothes",
+    "Word": "pant",
+    "Meaning": "pantolon"
+  },
+  {
+    "Group": "clothes",
+    "Word": "jacket",
+    "Meaning": "ceket"
+  },
+  {
+    "Group": "clothes",
+    "Word": "glove",
+    "Meaning": "eldiven"
+  }
+]

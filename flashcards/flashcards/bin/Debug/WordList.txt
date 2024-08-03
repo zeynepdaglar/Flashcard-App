@@ -1,0 +1,50 @@
+[
+  {
+    "Word": "cat",
+    "Meaning": "kedi"
+  },
+  {
+    "Word": "pen",
+    "Meaning": "kalem"
+  },
+  {
+    "Word": "table",
+    "Meaning": "masa"
+  },
+  {
+    "Word": "castle",
+    "Meaning": "kale"
+  },
+  {
+    "Word": "apple",
+    "Meaning": "elma"
+  },
+  {
+    "Word": "pineapple",
+    "Meaning": "ananas"
+  },
+  {
+    "Word": "diamond",
+    "Meaning": "elmas"
+  },
+  {
+    "Word": "book",
+    "Meaning": "kitap"
+  },
+  {
+    "Word": "computer",
+    "Meaning": "bilgisayar"
+  },
+  {
+    "Word": "board",
+    "Meaning": "tahta"
+  },
+  {
+    "Word": "one",
+    "Meaning": "bir"
+  },
+  {
+    "Word": "two",
+    "Meaning": "ik"
+  }
+]

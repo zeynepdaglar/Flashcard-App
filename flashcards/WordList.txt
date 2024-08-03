@@ -1,0 +1,12 @@
+"WordList" : [
+ {"kedi": "cat"},
+ {"mutlu": "happy"},
+ {"kitap": "book"},
+ {"sahil": "coast"},
+ {"vatandaþ": "citizen"},
+ {"halk": "public"},
+ {"genelde": "usually"},
+ {"kale": "castle"},
+ {"kalem": "pen"},
+ {"masa": "table"}
+]
